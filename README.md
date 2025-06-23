@@ -1,0 +1,2 @@
+# HalfCalc
+Easy Calculator App
